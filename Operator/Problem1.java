@@ -20,4 +20,5 @@ public class Problem1 {
             System.out.print("Result : Fail");
         }
     }
+
 }
