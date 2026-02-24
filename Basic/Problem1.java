@@ -10,4 +10,5 @@ public class Problem1{
         int e = scan.nextInt();
         System.out.println(a+b+c+(-d-e));
     }   
+
 }
