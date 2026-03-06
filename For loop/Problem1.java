@@ -40,6 +40,7 @@ public class Problem1 {
             totalpayroll += finalsalary;
             average_salary = totalpayroll/n;
 
+            System.out.println(" ");
             System.out.println("Employee : " + employeeName);
             System.out.println("Base Salary : $" + String.format("%.1f", baseSalary));
             System.out.println("Performance Rating : " + rating);
