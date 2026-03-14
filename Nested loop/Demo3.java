@@ -9,8 +9,7 @@ public class Demo3 {
             for(int j=0; j<i; j++){
                 System.out.print(" ");
             }
-
-            for(int k=n; k>0; k--){
+            for(int k=n; k>i; k--){
                 System.out.print("*");
             }
             System.out.println();
