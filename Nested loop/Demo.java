@@ -1,4 +1,4 @@
-00import java.util.*
+0mport java.util.*
 
 public class Demo {
     public static void main(String[] args) {
