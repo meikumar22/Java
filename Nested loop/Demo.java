@@ -10,6 +10,6 @@ public class Demo {
                 System.out.print("* ");
             }
             System.out.println();
-        
+        }   
     }
 }
