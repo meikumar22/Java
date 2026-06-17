@@ -1,4 +1,4 @@
-import java.util.*;
+import java.uti
 
 public class Problem10 {
     public static void main(String[] args) {
