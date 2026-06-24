@@ -1,5 +1,5 @@
-import java.util.*;
-
+import java.util.*
+    
 public class Problem1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
